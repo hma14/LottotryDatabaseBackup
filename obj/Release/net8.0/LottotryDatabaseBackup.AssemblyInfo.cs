@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LottotryDatabaseBackup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26321efbc96a20e9e2ec9cd39cca158e33e3c13")]
 [assembly: System.Reflection.AssemblyProductAttribute("LottotryDatabaseBackup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LottotryDatabaseBackup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

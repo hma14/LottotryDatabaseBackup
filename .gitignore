@@ -1,0 +1,4 @@
+# Ignore appsettings.production.json
+
+appsettings.json
+.vs

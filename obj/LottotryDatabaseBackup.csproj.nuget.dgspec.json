@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj": {}
+    "F:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj": {}
   },
   "projects": {
-    "G:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj": {
+    "F:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj",
+        "projectUniqueName": "F:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj",
         "projectName": "LottotryDatabaseBackup",
-        "projectPath": "G:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj",
+        "projectPath": "F:\\Database_Backup\\LottotryDatabaseBackup\\LottotryDatabaseBackup.csproj",
         "packagesPath": "C:\\Users\\henry.WEBSERVER\\.nuget\\packages\\",
-        "outputPath": "G:\\Database_Backup\\LottotryDatabaseBackup\\obj\\",
+        "outputPath": "F:\\Database_Backup\\LottotryDatabaseBackup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,14 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -71,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LottotryDatabaseBackup
-build_property.ProjectDir = G:\Database_Backup\LottotryDatabaseBackup\
+build_property.ProjectDir = F:\Database_Backup\LottotryDatabaseBackup\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

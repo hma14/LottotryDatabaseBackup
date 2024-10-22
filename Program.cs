@@ -21,9 +21,9 @@ namespace SqlBackupApp
             var configuration = builder.Services.GetRequiredService<IConfiguration>();
 
             // Retrieve settings
-            var password = configuration["Password"] ?? "";
             var server = configuration["ConnectionSettings:Server"] ?? "";
             var userId = configuration["ConnectionSettings:UserId"] ?? "";
+            var password = configuration["ConnectionSettings:Password"] ?? "";
             var trustServerCert = bool.Parse(configuration["ConnectionSettings:TrustServerCertificate"] ?? "true");
             var lottotry = configuration["DatabaseNames:lottotry"] ?? "";
             var lottotrydb = configuration["DatabaseNames:lottotrydb"] ?? "";
